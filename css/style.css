@@ -1,0 +1,24 @@
+body{
+    height: 95vh;
+    width: 95;
+    margin-top: 17px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background: linear-gradient(rgb(13, 128, 156),  rgba(9, 71, 87, 0.8));
+}
+
+.titulo {
+    text-transform: uppercase;
+    color: black;
+}
+
+.info a{
+    text-decoration: none;
+    color: black;
+}
+
+.info a:hover{
+    color: white;
+}
