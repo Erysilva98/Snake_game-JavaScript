@@ -29,7 +29,7 @@
     - Finalizando aulas ás 20h25m
     - ************************************************ -
 
-#### Adaptações aplicadas no pojeto
+#### Adaptações aplicadas no Projeto
     - Alterações das cores no Layout do game
     - Ícone do titulo da página Adicionado
     - Adicionado Link do Projeto no GitHub : Por Erimilson Silva
