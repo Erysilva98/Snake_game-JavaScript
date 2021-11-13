@@ -1,5 +1,5 @@
 # Snake_game-JavaScript
-    Projeto Final da Digital Inovation One - HTML Web Developer
+    Projeto Final da Digital Innovation One - HTML Web Developer
     Recriando o jogo da Cobrinha com JavaScript
 
 #### Iniciando a criação do Gamer
