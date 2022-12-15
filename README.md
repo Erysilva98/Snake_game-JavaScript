@@ -1,6 +1,11 @@
 # Snake_game-JavaScript
-    Projeto Final da Digital Innovation One - HTML Web Developer
-    Recriando o jogo da Cobrinha com JavaScript
+
+### Projeto Final da Digital Innovation One - HTML Web Developer
+#
+### Recriando o jogo da Cobrinha com JavaScript
+#
+## Tela Inicial
+<img src="img/pagina.png" alt="Tela Inicial" height="300px"/>
 
 #### Iniciando a criação do Gamer
     - 19/10/2021
@@ -37,3 +42,12 @@
     - Entregando Projeto dia 19/10/2021
     - Horário ás 22h
     - ************************************************************ -
+
+#
+<p>&copy; Copyright 2022 Erimilson Silva</p>
+<div stylr = "display: inline_block"> <br>
+<a alt="Instagram" href="https://www.instagram.com/erimilson.silva_98/" target="_blank"> <img  align = "center" height = "25" width = "82" src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a alt = "LinkedIn" href="https://www.linkedin.com/in/erimilson-silva-31493720a/" target="_blank"> <img align = "center"  height = "25" width = "82" src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target ="_blank"> </a>
+</div>
+
+#
